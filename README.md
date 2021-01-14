@@ -1,1 +1,1 @@
-http://github.com/Ooverz/My-CV/blob/main/index.html
+http://ooverz.github.io/My-CV/
